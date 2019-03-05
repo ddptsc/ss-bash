@@ -12,4 +12,4 @@ Shadowsocks流量管理脚本
 [使用说明][User Manual]
 
 
-[User Manual]:    https://github.com/hellofwy/ss-bash/wiki
+[User Manual]:    https://github.com/ddptsc/ss-bash/wiki
